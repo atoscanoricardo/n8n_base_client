@@ -62,4 +62,3 @@ export default defineNuxtConfig({
     viewer: true,
   }
 })
-
